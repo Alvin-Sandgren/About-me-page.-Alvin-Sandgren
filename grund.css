@@ -1,18 +1,17 @@
 
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #c42727;
-    color: #333;
+    background-color: #205707;
+    color: #ffffff;
     line-height: 1.6;
 }
 
 header {
-    background: #333;
+    background: linear-gradient(90deg, #ff7f50, #ff4500);
     color: #fff;
-    padding: 1rem 0;
+    padding: 1.5rem 0;
     text-align: center;
 }
 
@@ -58,3 +57,4 @@ footer p {
     margin: 0;
     font-size: 0.9rem;
 }
+
